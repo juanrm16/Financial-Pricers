@@ -1,6 +1,6 @@
-# Simple Financial Pricers (Python)
+# Financial Pricers (Python)
 
-This mini-project contains three pricers:
+This project contains three pricers:
 - **Bond Pricer:** prices fixed-rate bonds using cashflow discounting.
 - **Option Pricer:** implements the Black–Scholes model for European options.
 - **Swap Pricer:** computes the fair fixed rate of a vanilla interest rate swap.
